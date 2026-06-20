@@ -1,5 +1,7 @@
 # 📊 NLP & Text Mining Pipeline for Customer Feedback Analysis
 
+> **⚠️ Disclaimer:** All data used in this repository is 100% synthetic and generated strictly for demonstration purposes. No real customer, financial, or proprietary data is included.
+
 ## 📌 Project Overview
 This repository contains an automated text-mining data pipeline designed to ingest, clean, and categorize unstructured customer feedback logs. Built using Python and Pandas, this engine replaces manual text review with a programmatic batch-processing workflow. 
 
