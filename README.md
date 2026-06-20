@@ -14,13 +14,13 @@ It utilizes Regular Expressions (Regex) to extract behavioral keywords and insta
 ## 💻 Quick Start (How to Run Locally)
 1. **Clone the repository** to your local machine.
 2. **Install the required dependencies:**
-   ```bash
-pip install pandas
-```
+    ```
+    pip install pandas
+    ```
 3. **Execute the pipeline engine:**
-   ```bash
-   python text_pipeline.py
-```
+    ```
+    python text_pipeline.py
+    ```
 4. **View the categorized output** in the newly generated `structured_risk_report.csv` file.
 
 ## ⚙️ How the Pipeline Works
