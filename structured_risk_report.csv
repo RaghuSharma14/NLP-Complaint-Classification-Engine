@@ -1,0 +1,7 @@
+Log_ID,Complaint_Text,Risk_Category,Urgency_Flag
+1001,My statement has a hidden charge of $50! Total scam.,Deceptive Fees,HIGH
+1002,Can someone help me update my address? I moved recently.,Normal Inquiry,LOW
+1003,URGENT: Someone stole my identity and used my stolen card!!,Security Breach,HIGH
+2001,The customer service agent was incredibly rude and ignored me.,Customer Service,HIGH
+2002,"I need to request a new physical card, mine is scratched.",Normal Inquiry,LOW
+2003,"I am being overcharged on my monthly fee, please fix this hidden fee.",Deceptive Fees,HIGH
