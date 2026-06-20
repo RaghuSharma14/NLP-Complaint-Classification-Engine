@@ -11,6 +11,18 @@ It utilizes Regular Expressions (Regex) to extract behavioral keywords and insta
 * **Text Analytics:** Regular Expressions (`re` module), String Manipulation
 * **Architecture:** Rule-based classification engine
 
+## 💻 Quick Start (How to Run Locally)
+1. **Clone the repository** to your local machine.
+2. **Install the required dependencies:**
+   ```bash
+pip install pandas
+```
+3. **Execute the pipeline engine:**
+   ```bash
+   python text_pipeline.py
+```
+4. **View the categorized output** in the newly generated `structured_risk_report.csv` file.
+
 ## ⚙️ How the Pipeline Works
 1. **Batch Ingestion:** The script automatically scans a designated local directory (`/raw_logs/`) and merges multiple raw CSV flat-files into a unified master DataFrame, simulating a Data Lake ingestion process.
 2. **Text Standardization:** Cleans unstructured text inputs by normalizing casing and stripping hidden whitespace.
